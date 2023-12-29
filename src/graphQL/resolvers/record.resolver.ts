@@ -1,13 +1,18 @@
-import { Query, Resolver } from '@nestjs/graphql';
+import { Args, Query, Resolver } from '@nestjs/graphql';
 
-import { Records } from '../models/record.model';
+import RecordInput from '../inputs/record.input';
+import { RecordService } from 'src/app/record/services/record.service';
+import { Response } from '../models/response.model';
 
-@Resolver(() => Records)
+@Resolver()
 export class RecordsResolver {
-  constructor() {} //private authorsService: AuthorsService,
+  constructor(private recordService: RecordService) {}
 
-  @Query(() => Records, { name: 'records' })
-  async getRecords() {
-    return { eventVersion: '1' };
+  @Query(() => [Response], { name: 'JsonParse' })
+  async getRecords(
+    @Args({ name: 'recordInput', type: () => [RecordInput] })
+    recordInput: RecordInput[],
+  ) {
+    return this.recordService.parseJson(recordInput);
   }
 }
