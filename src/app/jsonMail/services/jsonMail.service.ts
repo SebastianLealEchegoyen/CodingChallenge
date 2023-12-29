@@ -8,7 +8,7 @@ export class JsonMailService {
   constructor() {}
 
   async parseJsonMail(url: string) {
-    const input = fs.createReadStream(url || 'src/mail/codeChallenge.eml');
+    const input = fs.createReadStream(url || 'src/mail/CodeChallenge.eml');
 
     const parsedJson = await simpleParser(input);
 
@@ -24,8 +24,8 @@ export class JsonMailService {
 
     const jsonUrl = parsedJson.text;
 
-    const response = await fetch(jsonUrl);
-    const body = await response.text();
+    const response = await fetch(jsonUrl, { redirect: 'follow', follow: 1 });
+    const body = await response.json();
 
     return JSON.stringify(body);
   }
