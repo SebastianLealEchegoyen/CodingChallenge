@@ -1,0 +1,62 @@
+MIME-Version: 1.0
+Date: Fri, 29 Dec 2023 01:23:38 -0600
+Message-ID: <CADT8LaP7_+t-Vajzs0fa37KzRy-2UgkKimQrUfWTNLNhu3Mf=Q@mail.gmail.com>
+Subject: Code Challange 2
+From: Sebastian Leal <charlzbach14@gmail.com>
+To: Sebastian Leal <charlzbach14@gmail.com>
+Content-Type: multipart/mixed; boundary="000000000000341311060da0e9d9"
+
+--000000000000341311060da0e9d9
+Content-Type: multipart/alternative; boundary="00000000000034130f060da0e9d7"
+
+--00000000000034130f060da0e9d7
+Content-Type: text/plain; charset="UTF-8"
+
+
+
+--00000000000034130f060da0e9d7
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><br></div>
+
+--00000000000034130f060da0e9d7--
+--000000000000341311060da0e9d9
+Content-Type: application/json; name="Example.json"
+Content-Disposition: attachment; filename="Example.json"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_lqqb3u0x0
+Content-ID: <f_lqqb3u0x0>
+
+ew0KICAicHJvZHVjdCI6ICJMaXZlIEpTT04gZ2VuZXJhdG9yIiwNCiAgInZlcnNpb24iOiAzLjEs
+DQogICJyZWxlYXNlRGF0ZSI6ICIyMDE0LTA2LTI1VDAwOjAwOjAwLjAwMFoiLA0KICAiZGVtbyI6
+IHRydWUsDQogICJwZXJzb24iOiB7DQogICAgImlkIjogMTIzNDUsDQogICAgIm5hbWUiOiAiSm9o
+biBEb2UiLA0KICAgICJwaG9uZXMiOiB7DQogICAgICAiaG9tZSI6ICI4MDAtMTIzLTQ1NjciLA0K
+ICAgICAgIm1vYmlsZSI6ICI4NzctMTIzLTEyMzQiDQogICAgfSwNCiAgICAiZW1haWwiOiBbDQog
+ICAgICAiamRAZXhhbXBsZS5jb20iLA0KICAgICAgImpkQGV4YW1wbGUub3JnIg0KICAgIF0sDQog
+ICAgImRhdGVPZkJpcnRoIjogIjE5ODAtMDEtMDJUMDA6MDA6MDAuMDAwWiIsDQogICAgInJlZ2lz
+dGVyZWQiOiB0cnVlLA0KICAgICJlbWVyZ2VuY3lDb250YWN0cyI6IFsNCiAgICAgIHsNCiAgICAg
+ICAgIm5hbWUiOiAiSmFuZSBEb2UiLA0KICAgICAgICAicGhvbmUiOiAiODg4LTU1NS0xMjEyIiwN
+CiAgICAgICAgInJlbGF0aW9uc2hpcCI6ICJzcG91c2UiDQogICAgICB9LA0KICAgICAgew0KICAg
+ICAgICAibmFtZSI6ICJKdXN0aW4gRG9lIiwNCiAgICAgICAgInBob25lIjogIjg3Ny0xMjMtMTIx
+MiIsDQogICAgICAgICJyZWxhdGlvbnNoaXAiOiAicGFyZW50Ig0KICAgICAgfQ0KICAgIF0NCiAg
+fQ0KfQ==
+--000000000000341311060da0e9d9
+Content-Type: application/json; name="Example2.json"
+Content-Disposition: attachment; filename="Example2.json"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_lqqb4x231
+Content-ID: <f_lqqb4x231>
+
+ew0KICAicHJvZHVjdCI6ICJRdWUgZXMgbGEgVmlkYSIsDQogICJ2ZXJzaW9uIjogMy4xLA0KICAi
+cmVsZWFzZURhdGUiOiAiMjAxNC0wNi0yNVQwMDowMDowMC4wMDBaIiwNCiAgImRlbW8iOiB0cnVl
+LA0KICAicGVyc29uIjogew0KICAgICJpZCI6IDEyMzQ1LA0KICAgICJuYW1lIjogIkpvaG4gRG9l
+IiwNCiAgICAicGhvbmVzIjogew0KICAgICAgImhvbWUiOiAiODAwLTEyMy00NTY3IiwNCiAgICAg
+ICJtb2JpbGUiOiAiODc3LTEyMy0xMjM0Ig0KICAgIH0sDQogICAgImVtYWlsIjogWw0KICAgICAg
+ImpkQGV4YW1wbGUuY29tIiwNCiAgICAgICJqZEBleGFtcGxlLm9yZyINCiAgICBdLA0KICAgICJk
+YXRlT2ZCaXJ0aCI6ICIxOTgwLTAxLTAyVDAwOjAwOjAwLjAwMFoiLA0KICAgICJyZWdpc3RlcmVk
+IjogdHJ1ZSwNCiAgICAiZW1lcmdlbmN5Q29udGFjdHMiOiBbDQogICAgICB7DQogICAgICAgICJu
+YW1lIjogIkphbmUgRG9lIiwNCiAgICAgICAgInBob25lIjogIjg4OC01NTUtMTIxMiIsDQogICAg
+ICAgICJyZWxhdGlvbnNoaXAiOiAic3BvdXNlIg0KICAgICAgfSwNCiAgICAgIHsNCiAgICAgICAg
+Im5hbWUiOiAiSnVzdGluIERvZSIsDQogICAgICAgICJwaG9uZSI6ICI4NzctMTIzLTEyMTIiLA0K
+ICAgICAgICAicmVsYXRpb25zaGlwIjogInBhcmVudCINCiAgICAgIH0NCiAgICBdDQogIH0NCn0=
+--000000000000341311060da0e9d9--
